@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>عيد ميلاد سعيد يا حبيبي</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #ffebcc;
+            text-align: center;
+            color: #ff4081;
+        }
+
+        h1 {
+            font-size: 50px;
+            margin-top: 50px;
+        }
+
+        p {
+            font-size: 24px;
+            margin-top: 20px;
+        }
+
+        .heart {
+            font-size: 100px;
+            margin-top: 50
